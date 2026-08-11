@@ -17,3 +17,16 @@ import:  https://github.com/tjarimalou/MeinTestLiaScriptKurs/blob/main/config.md
 ### Qualitative Verfahren
 Dieser Text ist eine Probe.
 Dies ist ein weiterer Test.
+
+## Hintergrundinformationen
+
+[![LiaScript](https://raw.githubusercontent.com/LiaScript/LiaScript/master/badges/course.svg)](https://liascript.github.io/course/?https://raw.githubusercontent.com/tjarimalou/MeinTestLiaScriptKurs/main/MeinTestLiaScriptKurs.md#1)
+
+<!-- data-type="none" -->
+| Parameter           | Informationen                                                                                   |
+| ------------------- | ----------------------------------------------------------------------------------------------- |
+| **Inhalt:**         | @config.lecture                                                                                 |
+| **Datum:**          | @config.semester                                                                                |
+| **Verortung:**      | `Bachelorstudium`                                                                               |
+| **Link auf GitHub:**| https://github.com/tjarimalou/MeinTestLiaScriptKurs/blob/main/MeinTestLiaScriptKurs.md          |
+| **Autoren:**        | @author                                                                                         |
