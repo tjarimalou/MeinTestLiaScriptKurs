@@ -8,12 +8,12 @@ narrator: Deutsch Female
 import:  https://github.com/tjarimalou/MeinTestLiaScriptKurs/blob/main/config.md
 -->
 
-# Überschrift
+# Qualitatives Forschen - Grundlagen
 
-## Unterüberschrift 1
+## Qualitatives Forschen als Paradigma empirischer (Sozial)Forschung
 
-## Unterüberschrift 2
+## Ziele qualitativer Forschung
 
-### Unter-Unterüberschrift 2.1
+### Qualitative Verfahren
 Dieser Text ist eine Probe.
 Dies ist ein weiterer Test.
